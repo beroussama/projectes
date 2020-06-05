@@ -80,7 +80,7 @@
             this.button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button15.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(0)))), ((int)(((byte)(51)))));
-            this.button15.Location = new System.Drawing.Point(606, 189);
+            this.button15.Location = new System.Drawing.Point(592, 188);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(106, 29);
             this.button15.TabIndex = 70;
